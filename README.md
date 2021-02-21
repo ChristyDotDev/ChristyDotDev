@@ -12,11 +12,11 @@ but it'll probably mostly be hacky hobby projects related to sports and videgame
 ### 🎒 I’m currently learning
  - R and Data analysis in general
  - Godot Engine, and been using C# in it
+ - Shaking the rust off my Javascript
 
 ### 🚘 Parked
  - An [entry](https://github.com/christytc10/bigdatacup21) for the Big Data Cup. I had a lot of fun parsing the data and trying to find
   correlations but I feel I hit the wall of my statistics knowledge before I came up with anything particularly useful
-
 
 ### 🤝 I’m looking to collaborate on
  - Anything free/open source really
