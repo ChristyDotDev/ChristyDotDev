@@ -5,7 +5,7 @@ mostly high throughput financial systems. I could try writing those in my spare 
 but it'll probably mostly be hacky hobby projects related to sports and videgames.
 
 ### 🔨 I’m currently working on
- - Mucking about with F1 2020 [game telemetry](https://github.com/christytc10/f12020-twitch)
+ - Mucking about with F1 2020 game telemetry for a [twitch bot](https://github.com/christytc10/f12020-twitch) and [widgets](https://github.com/christytc10/f12020-widgets)
  - A 2D game in Godot
  - A simple blog in jekyll
 
